@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# billing-react-app
+
+![billing-app](https://user-images.githubusercontent.com/66256483/138446547-e6c4a413-fd95-4aa4-bf6c-472aafe07ed3.JPG)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
